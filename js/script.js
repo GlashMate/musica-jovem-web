@@ -55,5 +55,6 @@ $(document).ready(function(){
             }
     });
 
+    $(".splide").mount();
     
 });
